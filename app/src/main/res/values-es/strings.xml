@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Clima</string>
+    <string name="isoCode">Código ISO del pais</string>
+    <string name="cityName">Nombre de ciudad</string>
+    <string name="infoGet">OBTENER INFO</string>
+    <string name="tempera">Temperatura</string>
+    <string name="now">Actual</string>
+    <string name="mini">Mínima</string>
+    <string name="maxi">Máxima</string>
+    <string name="fields_empty">Rellene todos los campos</string>
+</resources>
